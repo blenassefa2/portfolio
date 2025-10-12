@@ -21,7 +21,7 @@ export default function Navbar() {
     if (!scrollContainer) return
 
     const handleScroll = () => {
-      const scrollLeft = scrollContainer.scrollLeft
+      
       const containerWidth = scrollContainer.offsetWidth
       
       // Find which section is most visible

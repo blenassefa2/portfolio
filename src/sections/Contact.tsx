@@ -1,4 +1,4 @@
-import LeftArrow from "../components/LeftArrow";
+
 
 export default function Contact() {
   return (

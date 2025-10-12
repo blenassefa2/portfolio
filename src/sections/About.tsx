@@ -1,8 +1,6 @@
 import Education from './Education'
 import Skills from './Skills'
-import Languages from './Languages'
-import LeftArrow from '../components/LeftArrow'
-import RightArrow from '../components/RightArrow'
+
 
 export default function About() {
   return (

@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
-import RightArrow from "../components/RightArrow";
-import LeftArrow from "../components/LeftArrow";
+
 export default function Hero() {
   const texts = [
     "Built on knowledge.",
