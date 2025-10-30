@@ -23,6 +23,9 @@ export default function Contact() {
             <a href="https://www.upwork.com/freelancers/~01d405e170f3b30b23?mp_source=share" target="_blank" rel="noreferrer" className="inline-flex items-center rounded-md border border-zinc-300 dark:border-zinc-700 px-4 py-2 text-zinc-900 dark:text-zinc-100 hover:bg-zinc-100 dark:hover:bg-zinc-800">
               Upwork
             </a>
+            <a href="https://www.youtube.com/@learn0and0build" target="_blank" rel="noreferrer" className="inline-flex items-center rounded-md border border-zinc-300 dark:border-zinc-700 px-4 py-2 text-zinc-900 dark:text-zinc-100 hover:bg-zinc-100 dark:hover:bg-zinc-800">
+              Youtube
+            </a>
           </div>
         </div>
       </div>
