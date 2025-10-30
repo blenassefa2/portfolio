@@ -6,12 +6,13 @@ import ExperienceAndAwards from './sections/ExperienceAndAwards'
 import Contact from './sections/Contact'
 import Footer from './components/Footer'
 import ArrowButton from './components/ArrowButton'
+import Featured from './sections/Featured'
 
 function App() {
   const containerRef = useRef<HTMLDivElement>(null)
   const [currentSection, setCurrentSection] = useState(0)
 
-  const sections = ['home', 'about', 'experience', 'contact']
+  const sections = ['home', 'featured', 'experience', 'about', 'contact']
 
   const scrollToNext = (direction: 'left' | 'right') => {
     const container = containerRef.current
@@ -63,18 +64,23 @@ function App() {
               <Hero />
             </div>
           </section>
-
+          <section id="featured" className="min-w-full h-screen snap-start">
+            <div className="h-full mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 flex items-start overflow-y-auto pb-28 scrollbar-thin-dark">
+              <Featured/>
+            </div>
+          </section>
+          
+          <section id="experience" className="min-w-full h-screen snap-start">
+            <div className="h-full mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 flex items-center">
+              <ExperienceAndAwards />
+            </div>
+          </section>
           <section id="about" className="min-w-full h-screen snap-start">
             <div className="h-full mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 flex items-center">
               <About />
             </div>
           </section>
 
-          <section id="experience" className="min-w-full h-screen snap-start">
-            <div className="h-full mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 flex items-center">
-              <ExperienceAndAwards />
-            </div>
-          </section>
 
           <section id="contact" className="min-w-full h-screen snap-start">
             <div className="h-full mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 flex items-center">
