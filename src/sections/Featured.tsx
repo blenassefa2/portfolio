@@ -45,7 +45,7 @@ const projects: Project[] = [
       'https://media.licdn.com/dms/image/v2/D4E22AQGOZUVpOjo5DA/feedshare-shrink_800/feedshare-shrink_800/0/1731141241908?e=1763596800&v=beta&t=E0b8AhC3FFsuXS9zCgTm4_irpBOm2-bba2zoJdr2Tg4',
     startDate: new Date('2024-11-30'),
     endDate: new Date('2024-11-30'),
-    type: 'Other',
+    type: 'LinkedIn Post',
     link: 'https://www.linkedin.com/in/blen-tilahun/overlay/1742844545536/single-media-viewer?type=LINK&profileId=ACoAADH2A9MBMs8YeuhAj9wXh5aTucoVPRfY5Sc'
   },
   {
@@ -90,7 +90,7 @@ const projects: Project[] = [
       'Final project for CS50X project. Used python to build web application using Flask Framework and SQLight-like database. My first youtube post and personal project :)',
     tags: ['Software Application Development', 'Web', 'Education', 'First Youtube'],
     thumbnail:
-      'https://i9.ytimg.com/vi/WlfaenOUG34/mq3.jpg?sqp=CKDlj8gG&rs=AOn4CLBHfqzk067xVjbDyuiVb1qcixY54A',
+      'https://res.cloudinary.com/drowvugep/image/upload/v1761917218/f98fc077-e762-42d0-9aed-a53a2197b514.png',
     startDate: new Date('2020-11-16'),
     endDate: new Date('2020-11-16'),
     type: 'Youtube',
