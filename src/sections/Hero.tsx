@@ -84,7 +84,7 @@ export default function Hero() {
               <a href="#about" className="inline-flex items-center rounded-md border border-zinc-300 dark:border-zinc-700 px-4 py-2 text-zinc-900 dark:text-zinc-100 hover:bg-zinc-100 dark:hover:bg-zinc-800">
                 Learn About Me
               </a>
-              <a href="https://drive.google.com/file/d/1bkS6dgPg1qkKuu2XmYLD4aPY6vJHtnM1/view?usp=sharing" className="inline-flex items-center rounded-md border border-zinc-300 dark:border-zinc-700 px-4 py-2 text-zinc-900 dark:text-zinc-100 hover:bg-zinc-100 dark:hover:bg-zinc-800">
+              <a href="https://drive.google.com/file/d/1upfuF5beHCzvBeCL9NrSUnRQvHA_vgA2/view?usp=sharing" className="inline-flex items-center rounded-md border border-zinc-300 dark:border-zinc-700 px-4 py-2 text-zinc-900 dark:text-zinc-100 hover:bg-zinc-100 dark:hover:bg-zinc-800">
                 Checkout my CV
               </a>
             </div>
