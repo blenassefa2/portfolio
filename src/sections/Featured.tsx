@@ -30,7 +30,7 @@ const projects: Project[] = [
       'Shared my CS journey with young girls at the FIRST event (Femmes et Ingénieures, Réussir en Sciences et Technologies) at Lycée franco-éthiopien Guebre-Mariam. English translation included.',
     tags: ['WomenInSTEM', 'Education', 'Mentorship', 'FIRST', 'STEMEducation'],
     thumbnail:
-      'https://media.licdn.com/dms/image/sync/v2/D4E27AQFmFWf5F2UD8A/articleshare-shrink_1280_800/B4EZXSVvrtHUAQ-/0/1742990671388?e=1762470000&v=beta&t=R8iqOFpcUAg6qdkQvR48Ni3sCIyNn5lFCxm-FFyCDSI',
+      'https://res.cloudinary.com/drowvugep/image/upload/v1763919020/37fe4c50-da46-4eee-8f6f-347fb2cc104a.png',
     startDate: new Date('2025-03-30'),
     endDate: new Date('2025-03-30'),
     type: 'LinkedIn Post',
@@ -42,7 +42,7 @@ const projects: Project[] = [
       'Represented A2SV as Head of Academy for Remote Education at the African Youth Forum during Africa Celebrates at UNECA. Discussed bridging education and industry and access to tech education in Africa.',
     tags: ['DigitalLiteracy', 'A2SV', 'TechEducation', 'YouthEmpowerment'],
     thumbnail:
-      'https://media.licdn.com/dms/image/v2/D4E22AQGOZUVpOjo5DA/feedshare-shrink_800/feedshare-shrink_800/0/1731141241908?e=1763596800&v=beta&t=E0b8AhC3FFsuXS9zCgTm4_irpBOm2-bba2zoJdr2Tg4',
+      'https://res.cloudinary.com/drowvugep/image/upload/v1763919104/0d13e11c-21b2-4d7b-b291-59d8e7cf66e5.png',
     startDate: new Date('2024-11-30'),
     endDate: new Date('2024-11-30'),
     type: 'LinkedIn Post',
@@ -54,7 +54,7 @@ const projects: Project[] = [
       'Exhibited at GITEX AFRICA 2024 in Marrakech, showcasing remote education efforts with A2SV. Thanks to the team and A2SV for the opportunity.',
     tags: ['GITEXAfrica', 'A2SV', 'TechForGood', 'Networking', 'TechExhibitor'],
     thumbnail:
-      'https://media.licdn.com/dms/image/v2/D4E22AQGwBIhLjQjUzg/feedshare-shrink_800/feedshare-shrink_800/0/1717860881363?e=1763596800&v=beta&t=uVVL-gC__ymV_FbAHuN5gNhXj2-cGjgt0__I77gT14Y',
+      'https://res.cloudinary.com/drowvugep/image/upload/v1763919163/6eb02a7c-a251-4a33-8341-9dccb1f53334.png',
     startDate: new Date('2024-05-28'),
     endDate: new Date('2024-06-06'),
     type: 'LinkedIn Post',
@@ -66,7 +66,7 @@ const projects: Project[] = [
       'As an ALX cohort 5 member, built a pseudo‑3D computer game using C and SDL. Linked post includes a detailed blog write‑up of the process.',
     tags: ['ALX', 'Programming', 'GameDevelopment', 'C', 'SDL'],
     thumbnail:
-      'https://media.licdn.com/dms/image/sync/v2/C4D27AQEv2l7aVjOBQg/articleshare-shrink_1280_800/articleshare-shrink_1280_800/0/1753371935041?e=1762470000&v=beta&t=XuJDexbvIdIHLpHbjMwq-gb6eOCyUQITMvMx-zq1FUI',
+      'https://res.cloudinary.com/drowvugep/image/upload/v1763919568/0345bb7c-1268-4188-b91e-7414efa036df.png',
     startDate: new Date('2022-12-04'),
     endDate: new Date('2022-12-04'),
     type: 'Blog',
@@ -78,7 +78,7 @@ const projects: Project[] = [
       'A beginner‑friendly blog post explaining what happens when you type a URL in your browser and press Enter—from DNS to rendering.',
     tags: ['Networking', 'Web', 'Education', 'First Blog'],
     thumbnail:
-      'https://media.licdn.com/dms/image/sync/v2/D5627AQEGHAdlXPgFwA/articleshare-shrink_1280_800/articleshare-shrink_1280_800/0/1728507168281?e=1762470000&v=beta&t=FWCLpAmaSES878NuO_oj8w_Yhy68hr27pD56Ci63kCw',
+      'https://res.cloudinary.com/drowvugep/image/upload/v1763919700/53cd5000-622a-48b5-af10-3a34a7038b62.png',
     startDate: new Date('2022-10-06'),
     endDate: new Date('2022-10-06'),
     type: 'Blog',
