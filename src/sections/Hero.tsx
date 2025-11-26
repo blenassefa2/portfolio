@@ -2,9 +2,9 @@ import { useEffect, useState } from "react";
 
 export default function Hero() {
   const texts = [
-    "Built on knowledge.",
-    "Driven by experience.",
-    "Ready for what’s next.",
+    "Hello!",
+    "Hello!",
+    "Hello!",
   ];
 
   const [text, setText] = useState("");
@@ -58,8 +58,8 @@ export default function Hero() {
           <div className="lg:col-span-12">
             <p className="text-sm uppercase tracking-widest text-zinc-600 dark:text-zinc-400">Software Engineer • MSc Cybersecurity & IoT</p>
             <h1 className="mt-3 text-6xl sm:text-7xl font-bold tracking-tight text-yellow-900 dark:text-yellow-100">
-              {text}
-              <span className="border-r-2 border-zinc-900 dark:border-zinc-100 animate-pulse ml-1" />
+              Hello World!
+              {/* <span className="border-r-2 border-zinc-900 dark:border-zinc-100 animate-pulse ml-1" /> */}
             </h1>
             <div className="mt-4 text-zinc-600 dark:text-zinc-400 leading-relaxed">
               <ul className="mt-4 text-zinc-600 dark:text-zinc-400 leading-relaxed space-y-2 list-disc list-inside">
