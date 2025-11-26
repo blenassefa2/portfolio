@@ -7,7 +7,7 @@ export default function Hero() {
     "Hello!",
   ];
 
-  const [text, setText] = useState("");
+  const [, setText] = useState("");
   const [index, setIndex] = useState(0);
   const [subIndex, setSubIndex] = useState(0);
   const [deleting, setDeleting] = useState(false);
